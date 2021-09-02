@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
-  font: normal normal 13px/16px "Open Sans",
-  sans-serif;
+  font: normal normal 13px/16px "Open Sans", sans-serif;
   background: #dfdfdf;
 }
 
@@ -21,6 +20,16 @@ body {
 
  input {
    padding: 4px 15px 4px 5px;
+ }
+
+ #button{
+ display: inline-block;
+ background-color:#fc999b;
+ color:#ffffff;
+ border-radius: 5px;
+ text-align:center;
+ margin-top:2px;
+ padding: 5px 15px;
  }
 
  #button:hover {
