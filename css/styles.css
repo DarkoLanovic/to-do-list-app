@@ -2,16 +2,17 @@
 
 body {
   font: normal normal 13px/16px "Open Sans", sans-serif;
-  background: #dfdfdf;
+  background: #b07bd9;
 }
 
 .container{
+  color: #2174ac;
   padding: 20px;
   width: 300px;
   margin: 0 auto;
   margin-top: 40px;
   background: white;
-  border-radius: 5px
+  border-radius: 20px
 }
 
  form {
@@ -38,7 +39,8 @@ body {
  }
 
  ol {
-   padding-left: 20px;
+   padding-left: 10px;
+   color: #31bf4e;
  }
 
  ol il {
@@ -52,6 +54,7 @@ body {
 
  .strike {
    text-decoration: line-through;
+   color: #c92a20;
  }
 
  li:hover {
