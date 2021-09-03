@@ -2,17 +2,21 @@
 
 body {
   font: normal normal 13px/16px "Open Sans", sans-serif;
-  background: #b07bd9;
+  background: #dbdbf8;
 }
 
 .container{
   color: #2174ac;
-  padding: 20px;
-  width: 300px;
+  padding: 40px;
+  width: 350px;
   margin: 0 auto;
-  margin-top: 40px;
+  margin-top: 30px;
   background: white;
   border-radius: 20px
+}
+
+.h2 {
+  text-decoration: underline;
 }
 
  form {
